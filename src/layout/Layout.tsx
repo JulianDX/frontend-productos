@@ -10,7 +10,7 @@ export const Layout = () => {
           </div>
         </div>
       </nav>
-      <main className="max-w-3xl mx-auto bg-white shadow p-6 mt-10">
+      <main className="max-w-4xl mx-auto bg-white shadow p-6 mt-10">
         <Outlet />
       </main>
     </>
